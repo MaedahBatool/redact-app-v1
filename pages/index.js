@@ -47,7 +47,7 @@ export default function Home() {
 
 			<main className={styles.main}>
 				<h1 className={styles.title}>
-					Welcome to <a href="https://nextjs.org">Pangea Redact API!</a>
+					Welcome to <a href="https://pangea.cloud/docs/api/redact#redact">Pangea Redact API!</a>
 				</h1>
 
 				<p className={styles.description}>Fill in the data to redact important text.</p>
