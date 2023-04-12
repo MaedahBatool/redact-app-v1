@@ -1,4 +1,4 @@
-## Redactor App
+## Redactor App (Old version)
 
 **Demo Preview Link**: https://redact-app-one.vercel.app
 
