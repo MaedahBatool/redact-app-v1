@@ -19,7 +19,7 @@ export default function Footer() {
           <p
             className={`${inter.className} m-0 max-w-[30ch] text-sm opacity-50`}
           >
-            Find in-depth information about Pangea's Redact feature.
+            Find in-depth information about Pangea Redact feature.
           </p>
         </a>
 
